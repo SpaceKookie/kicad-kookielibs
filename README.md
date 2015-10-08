@@ -5,3 +5,5 @@ My personal libraries of KiCad symbols, footprints and what not. Most of them ar
 
 Anything that's marked as a "kookie_*" lib are well maintained schematics and footprints.
 Check the wiki for part lists to associate with some of the footprints.
+
+The symbols library is also hosted <HERE> and contains cool symbols to put on your PCB that I created during my projects.
