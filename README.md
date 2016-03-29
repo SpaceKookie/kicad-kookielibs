@@ -7,3 +7,15 @@ Anything that's marked as a "kookie_*" lib are well maintained schematics and fo
 Check the wiki for part lists to associate with some of the footprints.
 
 The symbols library is also hosted <HERE> and contains cool symbols to put on your PCB that I created during my projects.
+
+### Utils
+ - LED's
+ - RGB LED's
+ - Switches
+
+### SOC
+ - TI BLE 8bit chip (find exact part number here)
+
+
+### Symbols
+ - 3x Bluetooth logo
