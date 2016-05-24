@@ -15,3 +15,15 @@ The symbols are sorted by the following categories:
 All libraries start with the "kookie_" prefix. They are well maintained. Everything with a different prefix is either legacy or very project specific stuff and thus not well maintained.
 
 The symbols library is also hosted <HERE> and contains cool symbols to put on your PCB that I created during my projects.
+
+### Utils
+ - LED's
+ - RGB LED's
+ - Switches
+
+### SOC
+ - TI BLE 8bit chip (find exact part number here)
+
+
+### Symbols
+ - 3x Bluetooth logo
