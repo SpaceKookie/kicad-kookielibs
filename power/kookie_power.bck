@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PSSI2021SAY
+D Constant current source in a SOT353 package, 5-pin
+K 50mA, <75V, 
+F http://www.farnell.com/datasheets/667515.pdf
+$ENDCMP
+#
+#End Doc Library
