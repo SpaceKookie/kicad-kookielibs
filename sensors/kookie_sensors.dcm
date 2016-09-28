@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BMP280
+D Digital Pressure Sensor with I²C
+K Sensors, Bosch, Pressure, Temperature, I2C, I²C
+F http://www.mouser.com/ds/2/783/BST-BMP280-DS001-12-844746.pdf
+$ENDCMP
+#
+#End Doc Library

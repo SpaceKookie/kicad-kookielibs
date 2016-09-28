@@ -6,6 +6,18 @@ K MOSFET, RoHS
 F http://www.farnell.com/datasheets/1912011.pdf
 $ENDCMP
 #
+$CMP LM2937_3.3V
+D 3.3-V 400-mA and 500-mA Voltage Regulators
+K Voltage Regulator, 3.3V, 500mA, 400mA
+F http://www.farnell.com/datasheets/1997654.pdf
+$ENDCMP
+#
+$CMP MCP4017
+D 7-Bit Single I²C Digital POT with Volatile Memory
+K Potentiometer, Variable Resistor, Resistor, I²C, I2C
+F http://www.farnell.com/datasheets/388001.pdf
+$ENDCMP
+#
 $CMP PSSI2021SAY
 D Constant current source in a SOT353 package, 5-pin
 K 50mA, <75V, 

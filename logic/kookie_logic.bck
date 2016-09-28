@@ -6,10 +6,21 @@ K 8-bit, Analog, MUX/DEMUX
 F http://www.farnell.com/datasheets/1645588.pdf
 $ENDCMP
 #
+$CMP CH340G
+D USB to serial chip
+K USB to Serial, RXTX, 3.4V
+$ENDCMP
+#
+$CMP MCP3021
+D Low Power 10-Bit A/D Converter With I²C Interface
+K I²C, I2C, ADC, 10-bin
+F http://www.farnell.com/datasheets/12184.pdf
+$ENDCMP
+#
 $CMP PCF8574(A)T/3
 D Remote 8-bit I/O expander for I²C-bus with interrupt
 K I²C, I/O Expander, 8-bit
-F /home/spacekookie/Projects/Electronics/libraries/kookielibs/logic/docs/1716973.pdf
+F http://www.farnell.com/datasheets/1716973.pdf
 $ENDCMP
 #
 #End Doc Library
