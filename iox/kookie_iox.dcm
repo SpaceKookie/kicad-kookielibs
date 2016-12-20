@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FXL6408
+D Fully Configurable 8-Bit I²C-Controlled GPIO Expande
+K iox, gpio expander, I²C, fairchild
+$ENDCMP
+#
+$CMP XRA1220(P)
+D 8-bit GPIO expander with an I²C/SMBus interface
+K iox, gpio expander, i²c, i2c, smbus, 8-bit
+$ENDCMP
+#
+#End Doc Library

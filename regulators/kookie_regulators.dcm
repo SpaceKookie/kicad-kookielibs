@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZXCL5213
+D Low dropout voltage regulators (2V5, 2V6, 2V8, 3V, 3V3) 
+K 2V5, 2V6, 2V8, 3V, 3V3, voltage regulator, volt reg, power
+$ENDCMP
+#
+#End Doc Library
