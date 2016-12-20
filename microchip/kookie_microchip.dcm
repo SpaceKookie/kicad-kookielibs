@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP4017
+D 7-Bit Single I²C™ Digital POT with Volatile Memory in SC70
+K I²C, potentiometer, variable resistor, volatile
+$ENDCMP
+#
+#End Doc Library
