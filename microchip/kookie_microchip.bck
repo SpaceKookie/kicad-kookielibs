@@ -5,9 +5,4 @@ D 7-Bit Single I²C™ Digital POT with Volatile Memory in SC70
 K I²C, potentiometer, variable resistor, volatile
 $ENDCMP
 #
-$CMP ZXCL5213
-D Low dropout voltage regulators (2V5, 2V6, 2V8, 3V, 3V3) 
-K 2V5, 2V6, 2V8, 3V, 3V3, voltage regulator, volt reg, power
-$ENDCMP
-#
 #End Doc Library
